@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+	font-family: "Helvetica Neue";
+}
+
+#main-container {
+	height: 100%;
+	width: 100%;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+h1 {
+	color: blue;
+	font-size: 50px;
+}
